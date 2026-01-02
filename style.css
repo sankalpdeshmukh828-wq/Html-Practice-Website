@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(rgb(190, 190, 241),rgb(230, 230, 169),rgb(145, 248, 248),);
+}
+ body a:hover{
+    color: greenyellow;
+    transform: scale(1.1);
+
+}
